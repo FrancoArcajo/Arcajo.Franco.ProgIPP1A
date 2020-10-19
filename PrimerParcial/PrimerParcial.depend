@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603111424 source:c:\users\blodrs\desktop\prog pp\arcajo.franco.progipp1a\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
